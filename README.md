@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Aemara](https://github.com/user-attachments/assets/a8ef1964-e407-4310-a7cc-e9bc73588a19)
 
 <!--
 **AAEmara/AAEmara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
