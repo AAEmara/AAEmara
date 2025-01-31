@@ -64,11 +64,9 @@ Here are some ideas to get you started:
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AAEmara" alt="GitHub Streak" />
-  </a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAEmara&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AAEmara&hide=stars">
 </div>
 
 ###
